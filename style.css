@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: aqua;
+}
+main img{
+    width: 250px;
+    height: 250px;
+    margin-left: 0px;
+    border-radius: 50px;
+    border:8px dotted #00caca;
+    text-align: center;
+}
+header h1{
+  text-align: center;
+  color: aqua;
+}
+main p{
+  font-size: 20px;
+  background-color: white;
+  border-radius: 50PX;
+  margin-right: 120px;
+  border:2px dashed rgb(0, 202, 202);
+  text-align: center;
+}
+header{
+    background-color: black;
+  border-radius:50px;
+  border:16px dotted aqua;
+}
